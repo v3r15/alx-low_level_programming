@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print all possible combinatins of a single-digit numbers.
- *
- * Description: print all possible combinations of a single-digit numbers.
- *
- * Return: Always 0 (Success)
+* * main - print single digit numbers
+* *
+* * Description: print single digit numbers with commas
+* *
+* * Return: Always 0 (Success)
 */
 
 int main(void)
@@ -24,7 +24,7 @@ int main(void)
 		}
 		i++;
 	}
-
+	
 	putchar(10);
 
 	return (0);
