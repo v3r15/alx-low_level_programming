@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
 * * print_sign - print the sign of a number
 * * @n: type int interger, can be negative or positive
